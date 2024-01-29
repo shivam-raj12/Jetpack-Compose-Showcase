@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jetpack Compose Showcase</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet , consectetur adipisci elit , sed eiusmod tempor incidunt ut labore et dolore magna aliqua . Ut enim ad minim veniam , quis nostrum exercitationem ullam corporis suscipit laboriosam , nisi ut aliquid ex ea commodi consequatur.</string>
+    <string name="layouts">`Layouts` in Jetpack Compose (e.g. `Column`, `Row`, `Box`, etc.) are used to arrange and organize other UI elements. They help control the positioning and alignment of components.</string>
+    <string name="navigation_rail">The `Navigation Rail` is a vertical navigation widget used for presenting navigation options, typically positioned along the screen edge.</string>
+    <string name="app_bar">The `AppBar` is a customizable top app bar or bottom app bar that typically contains navigation and actions for the current screen. It\'s a common element in Android app UIs.</string>
+    <string name="animations">`Animations` in Jetpack compose are dynamic visual effects that bring your user interface to life. With built in support for creating smooth and interactive animations, you can add motion, transitions, and delightful user experiences to your app\'s Ul effortlessly.</string>
+    <string name="dialog_box">A `Dialog` is a pop-up window that can display critical information, confirmations, or additional options without navigating to a new screen.</string>
+    <string name="date_picker">The `DatePicker` widget allows users to select a date from a calendar-like interface, making it useful for date-related input tasks.</string>
+    <string name="tabs">`Tabs` organize content into sections, allowing users to switch between different views or categories.</string>
+    <string name="card">A `Card` is a container that groups related content together. It often has a shadow and elevation to create a visually distinct surface for displaying information.</string>
+    <string name="progress_bar">`Progress Bars` indicate the status of ongoing tasks or loading processes, providing visual feedback to users.</string>
+    <string name="slider">`Sliders` allow users to select a value within a range. They\'re often used for settings or adjusting parameters.</string>
+    <string name="snack_bar">A `Snackbar` is a brief, informative message that appears at the bottom of the screen, often used to provide feedback or notifications to the user.</string>
+    <string name="bottom_sheet">A `BottomSheet` is a component that slides in from the bottom of the screen to display additional content or options, making efficient use of screen space.</string>
+    <string name="text">The `Text` widget is used for displaying static text in your user interface. It\'s commonly used for headings, labels, and paragraphs.</string>
+    <string name="button">A `Button` is a clickable UI element that triggers actions when pressed. It\'s essential for user interactions like submitting forms or initiating processes.</string>
+    <string name="text_field">The `TextField` widget allows users to input text. It\'s used for various purposes, such as entering usernames, passwords, or search queries.</string>
+    <string name="image">`Image` is a fundamental Jetpack compose component used to display images within your app\'s user interface. It allows you to effortlessly incorporate visuals, such as icons, pictures, or graphics, into your app\'s layout, enhancing its visual appeal and user experience.</string>
+    <string name="pager">A `Pager` is a UI component that enables the creation of horizontally or vertically swipeable pages, commonly used for onboarding screens, image galleries, and more.</string>
+    <string name="badge">`Badges` are small, circular Ul elements used to provide additional context or information about an item, like notifications or counts.</string>
+    <string name="tooltip">`Tooltips` display additional information when users interact with specific UI elements, offering helpful hints or descriptions.</string>
+    <string name="chip">`Chips` represent a compact piece of information, often used for tagging, categorization, or selection.</string>
+</resources>
